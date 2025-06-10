@@ -1,4 +1,4 @@
 # kundan-demo
 This is my first git repository
 <br>
-author-kundan shripad tamdaddi
+author-kundan Tamdaddi
